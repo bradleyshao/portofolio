@@ -4,7 +4,7 @@ import GlobalStyle from './components/GlobalStyle';
 function App() {
   return (
     <div className="App">
-      <h1>Film</h1>
+      
       <GlobalStyle/>
       <AboutPage/>
     </div>
